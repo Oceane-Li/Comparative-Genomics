@@ -1,0 +1,16 @@
+LES PROTEOMES DEJA TELECHARGES :
+
+Ramlibacter tataouinensis TTB310
+GCA_000215705.1_ASM21570v1_translated_cds.faa
+Ramlibacter tataouinensis
+GCA_001580455.1_ASM158045v1_translated_cds.faa
+
+Magnetococcus marinus MC-1
+GCA_000014865.1_ASM1486v1_translated_cds.faa
+Magnetospirillum magneticum AMB-1
+GCA_000009985.1_ASM998v1_translated_cds.faa
+
+Xanthomonas axonopodis pv. citrumelo F1
+GCA_000225915.1_ASM22591v1_translated_cds.faa
+Xanthomonas campestris pv. campestris str. 8004
+GCA_000012105.1_ASM1210v1_translated_cds
